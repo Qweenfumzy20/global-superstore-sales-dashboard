@@ -52,3 +52,24 @@ The following measures were created:
 - Total Customers = DISTINCTCOUNT(SuperStore_Orders[customer_name])
 - Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
 
+# Dashboard Preview
+
+## Page 1 — Executive Overview
+This dashboard provides an executive summary of the company's overall performance, including total sales, profit, orders, customers, sales trends, and market performance.
+
+![Executive Overview](Executive Overview)
+
+---
+
+## Page 2 — Product Performance Analysis
+This dashboard focuses on product performance, highlighting the best-selling products, the most profitable products, sub-category performance, and the relationship between discounts and profitability.
+
+![Product Performance Analysis](product-performance.png)
+
+---
+
+## Page 3 — Customer & Regional Performance Analysis
+This dashboard explores customer and regional performance, identifying the highest-performing countries and markets while allowing users to filter results interactively.
+
+![Customer & Regional Performance Analysis](customer-regional-performance.png)
+
